@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "🕵️ About"
+    url: /about/
+  - title: "📂 Collections"
+    url: /collection-archive/
+  - title: "🗓 Posts"
+    url: /year-archive/
+  - title: "📚 Categories"
+    url: /categories/
+  - title: '🏷 Tags'
+    url: /tags/
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Sitemap"
+  #   url: /sitemap/
